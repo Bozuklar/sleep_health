@@ -276,7 +276,7 @@ elif app_mode == 'Team':
     # Ekip üyelerinin isimleri ve LinkedIn profillerinin linkleri
     ekip_uyeleri = {
         "Elif Mavili": "https://www.linkedin.com/in/elifmavili",
-        "Nimet Karagöz": "https://www.linkedin.com/in/nimet-karag%C3%B6z-34238390",
+        "Nimet Karagöz": "www.linkedin.com/in/nimetkaragoz",
         "Birkan Çanakçıoğlu": "https://www.linkedin.com/in/birkancanakcioglu",
         "Halil İbrahim Erdoğan": "https://www.linkedin.com/in/hierdogan"
 
